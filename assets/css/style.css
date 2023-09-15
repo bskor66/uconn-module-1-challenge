@@ -1,13 +1,16 @@
+/* Universal */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Page Background */
 body {
     background-color: #d9dcd6;
 }
 
+/* Top of page header styling */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,20 +18,24 @@ header {
     color: #ffffff;
 }
 
+/* Consolidated h1 */
 h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Consolidated h2 */
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Consolidated h3 */
 h3 {
     font-size: 20px;
 }
 
+/* Consolidated h4 */
 h4 {
     text-align: center;
     margin-bottom: 10px;
@@ -45,10 +52,12 @@ p {
     font-size: 16px;
 }
 
+/* Unique seo text styling in header logo */
 #seo {
     color: #d9dcd6;
 }
 
+/* navbar styling */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -57,15 +66,18 @@ header nav {
     font-size: 20px;
 }
 
+/* navbar list styling */
 header nav ul {
     list-style-type: none;
 }
 
+/* navbar list element styling */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* hero image figure styling */
 figure {
     height: 800px;
     width: 100%;
@@ -75,22 +87,26 @@ figure {
     background-position: center;
 }
 
+/* left floated for articles */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* right floated for articles */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* main article wrapper styling */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* side bar of content styling */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -102,17 +118,20 @@ aside {
     background-color: #2589bd;
 }
 
+/* side bar article styling */
 aside article {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* side bar article image styling */
 aside article img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* main section article styling */
 main article {
     margin-bottom: 20px;
     padding: 50px;
@@ -122,10 +141,12 @@ main article {
     color: #ffffff;
 }
 
+/* main section article image styling */
 main article img {
     max-height: 200px;
 }
 
+/* footer styling */
 footer {
     padding: 30px;
     clear: both;
