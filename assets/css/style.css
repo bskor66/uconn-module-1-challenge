@@ -36,6 +36,15 @@ h4 {
     font-size: 1.17em;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
 #seo {
     color: #d9dcd6;
 }
@@ -55,15 +64,6 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 figure {
@@ -105,11 +105,6 @@ aside {
 aside article {
     margin-bottom: 32px;
     color: #ffffff;
-}
-
-aside article h3 {
-    margin-bottom: 10px;
-    text-align: center;
 }
 
 aside article img {
