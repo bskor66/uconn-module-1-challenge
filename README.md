@@ -46,7 +46,7 @@ THEN I find a concise, descriptive title
 
 ## Deployed Website
 
-Here is a link to the [deployed website]().
+Here is a link to the [deployed website](https://bskor66.github.io/uconn-module-1-challenge/).
 
 ### Screenshot
 
