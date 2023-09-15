@@ -15,12 +15,21 @@ header {
     color: #ffffff;
 }
 
-header h1 {
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 #seo {
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+#seo {
     color: #d9dcd6;
 }
 
@@ -115,11 +124,6 @@ main article img {
     max-height: 200px;
 }
 
-main article h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 footer {
     padding: 30px;
     clear: both;
@@ -127,6 +131,3 @@ footer {
     text-align: center;
 }
 
-footer h2 {
-    font-size: 20px;
-}
